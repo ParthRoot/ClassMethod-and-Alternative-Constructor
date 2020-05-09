@@ -1,0 +1,1 @@
+# ClassMethod-and-Alternative-Constructor
